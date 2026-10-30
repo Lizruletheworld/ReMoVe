@@ -1,0 +1,21 @@
+# third-party checkouts (setup/clone_third_party.sh)
+/GVHMR/
+/sam3/
+/Depth-Anything-3/
+/kimodo/
+/smirk/
+/DECA/
+# environments, caches, weights
+/miniconda3/
+/envs/
+/weights/
+# run outputs
+/outputs/
+/_test/
+# machine-specific
+env.local.sh
+__pycache__/
+*.pyc
+
+# External source checkouts installed by setup/clone_tools.sh
+tools/
