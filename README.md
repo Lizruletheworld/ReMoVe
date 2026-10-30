@@ -10,13 +10,13 @@
 </p>
 
 <p align="center">
-  <sup>1</sup>Shanghai Jiao Tong University &nbsp;&nbsp;
-  <sup>2</sup>University of Science and Technology Beijing &nbsp;&nbsp;
-  <sup>3</sup>Monash University
+  <sup>1</sup>SJTU &nbsp;&nbsp;
+  <sup>2</sup>USTB &nbsp;&nbsp;
+  <sup>3</sup>Monash
   <br>
-  <sup>4</sup>Universiti Malaya &nbsp;&nbsp;
-  <sup>5</sup>The University of Queensland &nbsp;&nbsp;
-  <sup>6</sup>City University of Hong Kong
+  <sup>4</sup>UM &nbsp;&nbsp;
+  <sup>5</sup>UQ &nbsp;&nbsp;
+  <sup>6</sup>CityUHK
   <br>
   <sup>*</sup>Work done during internship at SJTU.
   <sup>&dagger;</sup>Corresponding author.
