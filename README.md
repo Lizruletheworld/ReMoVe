@@ -1,4 +1,4 @@
-<h1 align="center">ReMoVe: Refining a Video Model's Own Motion for Coherent Human Video Generation</h1>
+<h1 align="center">🚀 ReMoVe: Refining a Video Model's Own Motion for Coherent Human Video Generation</h1>
 
 <p align="center">
   Jie Li<sup>1,2,*</sup>,
