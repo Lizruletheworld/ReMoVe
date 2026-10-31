@@ -12,8 +12,7 @@
 <p align="center">
   <sup>1</sup>SJTU &nbsp;&nbsp;
   <sup>2</sup>USTB &nbsp;&nbsp;
-  <sup>3</sup>Monash
-  <br>
+  <sup>3</sup>Monash &nbsp;&nbsp;
   <sup>4</sup>UM &nbsp;&nbsp;
   <sup>5</sup>UQ &nbsp;&nbsp;
   <sup>6</sup>CityUHK
