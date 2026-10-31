@@ -1,5 +1,6 @@
 <h1 align="center">🚀 ReMoVe: Refining a Video Model's Own Motion for Coherent Human Video Generation</h1>
 
+
 <p align="center">
   Jie Li<sup>1,2,*</sup>,
   Muxin Pu<sup>3</sup>,
@@ -7,9 +8,7 @@
   Mingkang Dong<sup>5</sup>,
   Jianyuan Guo<sup>6</sup>,
   Tao Huang<sup>1,&dagger;</sup>
-</p>
-
-<p align="center">
+  <br>
   <sup>1</sup>SJTU &nbsp;&nbsp;
   <sup>2</sup>USTB &nbsp;&nbsp;
   <sup>3</sup>Monash &nbsp;&nbsp;
